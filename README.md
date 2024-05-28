@@ -1,6 +1,6 @@
 # JPEG Steganalysis Dataset
 
-This dataset contains various steganography datasets for steganalysis. The datasets included are J-UNIWARD, UERD, nsF5, and ED-JC.Each dataset is organized into three different JPEG quality factors: 75, 85, and 95. Within each quality factor folder, there are further subfolders containing cover and stego image folders. The link to the dataset folder is given below:
+This dataset contains various steganography datasets for steganalysis. The datasets included are J-UNIWARD, UERD, nsF5, and UED-JC.Each dataset is organized into three different JPEG quality factors: 75, 85, and 95. Within each quality factor folder, there are further subfolders containing cover and stego image folders. The link to the dataset folder is given below:
 
 https://drive.google.com/drive/folders/1RAucLu_4dkDWqIAS2d9wPsl_SrkF4Pr2?usp=drive_link
 
